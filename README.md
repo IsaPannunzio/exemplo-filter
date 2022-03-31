@@ -1,7 +1,7 @@
 # Exemplo Filter
 
 # Sobre
-Essa aplicação é um exemplo de Filter.
+Essa aplicação é um exemplo do método Filter.
 
 # Tecnologias Utilizadas
 * Java
